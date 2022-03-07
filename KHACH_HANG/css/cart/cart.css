@@ -1,0 +1,10 @@
+.payment-greeting{
+    background: url(../../media/image/background/bg-image9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.payment-greeting-text{
+    color:white;
+}
